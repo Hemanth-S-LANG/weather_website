@@ -441,6 +441,7 @@
     border-radius: 15px;
     position: absolute;
     /* top:187px; */
+    left:550px;
     animation: name duration timing-function delay iteration-count direction fill-mode;
     animation: hem 1.8s ease-in 1s 0.5 forwards;
 }
